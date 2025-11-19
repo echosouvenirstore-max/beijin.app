@@ -161,3 +161,4 @@ st.download_button(
     data=excel_data,
     file_name="bejin_rainfall_report.xlsx",
     mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+)
